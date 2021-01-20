@@ -1,0 +1,11 @@
+p#identificador{
+    color: blue;
+}
+
+p.nombre_clase{
+    color: red;
+}
+
+p {
+    color: green;
+}
